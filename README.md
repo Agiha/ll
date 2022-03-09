@@ -1,6 +1,4 @@
 # test1
-<div align="center"> <img src="https://
-  /yylljjj?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
@@ -109,7 +107,7 @@
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://metrics.lecoq.io/yylljjj?template=classic&config.timezone=Asia%2FShanghai" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
