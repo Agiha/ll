@@ -1,5 +1,6 @@
 # test1
-<div align="center"> <img src="https://metrics.lecoq.io/yylljjj?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://
+  /yylljjj?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!-- 动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
